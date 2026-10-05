@@ -4,4 +4,4 @@
 
 # Apartment Game
 
-Jogo 3D de exploração em um apartamento, desenvolvido em **Unity** e **C#**.
+A 3D apartment exploration game built in **Unity** and **C#**.
